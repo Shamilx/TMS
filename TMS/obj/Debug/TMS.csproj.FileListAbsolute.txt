@@ -51,3 +51,7 @@ C:\Users\Omero4\RiderProjects\TMS\TMS\obj\Debug\TMS.exe
 C:\Users\Omero4\RiderProjects\TMS\TMS\obj\Debug\TMS.pdb
 C:\Users\Omero4\RiderProjects\TMS\TMS\obj\Debug\Views\InfoScreen.baml
 C:\Users\Omero4\RiderProjects\TMS\TMS\obj\Debug\Views\InfoScreen.g.cs
+C:\Users\User\Desktop\TMS\TMS\obj\Debug\Views\WelcomeScreen.g.cs
+C:\Users\User\Desktop\TMS\TMS\obj\Debug\TMS_Content.g.cs
+C:\Users\User\Desktop\TMS\TMS\obj\Debug\Views\WelcomeScreen.baml
+C:\Users\User\Desktop\TMS\TMS\bin\Debug\Views\TMCLogo.png
